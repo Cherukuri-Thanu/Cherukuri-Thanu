@@ -3,13 +3,11 @@
 </div>
 
 <h3 align="center">Hi👋, I'm Thanuja Cherukuri</h3>
-<h4 align="center">Exploring the World Through Data</h4>
+<!-- <h4 align="center">Exploring the World Through Data</h4> -->
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Cherukuri-Thanu" alt="Profile views">
 </div>
-
-Here's a bit about me:
 
 - 🔭 **I’m currently working on:** improving my skills as a data analyst. I like interpreting and analyzing data to fuel growth while providing informed business decisions.
 - 🌱 **I’m currently learning:** Machine Learning to complement my skills and bring predictive insights into the mix.
