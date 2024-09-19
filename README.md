@@ -12,7 +12,11 @@
 - 🔭 **I’m currently working on:** improving my skills as a data analyst. I like interpreting and analyzing data to fuel growth while providing informed business decisions.
 - 🌱 **I’m currently learning:** Machine Learning to complement my skills and bring predictive insights into the mix.
 <div align="center">
-  <a href="mailto:thanujacherukuri111@gmail.com">thanujacherukuri111@gmail.com</a> | <a href="https://www.linkedin.com/in/thanuja-c-482801186/"><img src="https://img.shields.io/badge/LinkedIn-Thanuja%20Cherukuri-blue?style=flat&logo=linkedin"></a>
+  <a href="mailto:thanujacherukuri111@gmail.com">
+  <img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_default_2x_r2.png" alt="Gmail Logo" style="height: 24px; vertical-align: middle;"/>
+  thanujacherukuri111@gmail.com
+</a>
+ | <a href="https://www.linkedin.com/in/thanuja-c-482801186/"><img src="https://img.shields.io/badge/LinkedIn-Thanuja%20Cherukuri-blue?style=flat&logo=linkedin"></a>
 </div>
 
 ### <div align="center">🛠 Tech Stack & Skills</div>
