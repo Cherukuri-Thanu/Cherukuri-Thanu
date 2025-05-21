@@ -34,8 +34,8 @@
 |------|-----------|------------|---------------|-------|--------|
 | **2025** | **Customer Performance Monitor** | <img src="customer-performance-overview.png" width="160" alt="Customer Performance Monitor"> | Sales & Finance | SAP Datasphere · Power BI · SQL Server · Azure DL | Real-time KPIs (Turnover, EBITDA, DSO ⋯) – eliminated 80 % Excel churn |
 | **2025** | **Safety Performance & Compliance** | <img src="safety-performance-overview.png" width="160" alt="Safety Performance dashboard"> | Global SHE | SAP Datasphere · Power BI · SQL Server · Azure DL | Cut monthly incident-report cycle from 3 days → 30 min |
-| **2025** | **Material Procurement & OTD** | <img src="procurement-otd-overview.png" width="160" alt="Procurement & OTD dashboard"> | Supply Chain | SAP Datasphere · Power BI · SQL Server · Azure DL | Raised on-time-delivery visibility & flagged €2 M inventory risks |
-| **2024** | **Order-to-Cash (O2C) Performance** | <img src="procurement-overview.png" width="160" alt="Order-to-Cash dashboard"> | Sales & FICO | SAP ERP · SAP Datasphere · Power BI | Live pipeline from S/4HANA to dashboards; 80 % less manual order handling |
+| **2025** | **On-Time Delivery Analysis** | <img src="procurement-otd-overview.png" width="160" alt="Procurement & OTD dashboard"> | Supply Chain | SAP Datasphere · Power BI · SQL Server · Azure DL | Raised on-time-delivery visibility & flagged €2 M inventory risks |
+| **2024** | **Material Procurement Monitor** | <img src="procurement-overview.png" width="160" alt="Naish dashboard"> | Sales & FICO | SAP ERP · SAP Datasphere · Power BI | Live pipeline from S/4HANA to dashboards; 80 % less manual order handling |
 
 
 ### 📚 Learning Journey
