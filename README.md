@@ -31,13 +31,14 @@
 ### 📊 Recent Projects
 | Year | Project | Stack | Impact |
 |------|---------|-------|--------|
-| 2025 | **Customer Performance Monitor** | Datasphere · Power BI · SQL Server | Real-time global KPI dashboard (Turnover, EBITDA, DSO) |
-| 2024 | **Safety Performance & Compliance** | Power BI · Azure DL | Cut SHE reporting cycle from 3 days → 30 min |
-| 2022 | **Adaptive Radar Filter** *(Infineon)* | Python · NumPy · Pandas | +80 % target detection accuracy |
+| 2025 | **Customer Performance Monitor** | Datasphere · Power BI · SQL Server · Azure DL | Real-time global All4Labels KPI dashboard (Turnover, EBITDA, DSO) |
+| 2024 | **Safety Performance & Compliance** | Datasphere · Power BI · SQL Server · Azure DL | Cut SHE reporting cycle for All4Labels from 3 days → 30 min |
+| 2022 | **Adaptive Radar Filter** *(Infineon)* | Python · NumPy · Pandas · Scikit | +80 % target detection accuracy |
 
-### 📚 Certifications
+### 📚 Learning Journey
 - PL-300 · Microsoft Power BI Data Analyst  
-- SAP Advanced Data Modeling (Datasphere & S/4HANA)
+- SAP Certified Associate - Data Engineer
+- SAP Certified Associate - Back End Developer - ABAP Cloud
 
 💬 **Let’s connect & build data-driven SAP solutions together!**
 
