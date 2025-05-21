@@ -16,12 +16,12 @@
 ---
 
 ### 🚀 About Me
-- 🏢  **SAP BI Developer @ All4Labels Group GmbH** (2024-present) – building real-time Order-to-Cash analytics on SAP Datasphere & Power BI  
-- 📈  Creator of **Customer Performance Monitor** (Turnover, EBITDA, DSO ⋯) – slashed manual Excel churn by 80 %  
-- 🛰️  Ex-researcher at **Infineon** – delivered an adaptive FMCW-radar filter boosting detection accuracy by 80 %  
-- 🎓  M.Sc. Information & Communication Systems, **TU Hamburg**  
-- 🌍  Living in Hamburg • English (Fluent) • Deutsch (B1)  
-- ✍️  Passionate about turning messy SAP tables into crisp, actionable dashboards
+- **SAP BI Developer @ All4Labels Group GmbH** (2024-present) – building real-time Order-to-Cash analytics on SAP Datasphere & Power BI  
+- Creator of **Customer Performance Monitor Dashboard** (Turnover, EBITDA, DSO ⋯) – slashed manual Excel churn by 80 %  
+- Ex-researcher at **Infineon Technologies AG** – delivered an adaptive FMCW-radar filter boosting detection accuracy by 80 %  
+- M.Sc. Information & Communication Systems, **TU Hamburg**  
+- Living in Hamburg • English (Fluent) • Deutsch (B1)  
+- Passionate about turning messy SAP/non-SAP data into actionable reporting
 
 ### 🛠️ Tech Toolbox
 | SAP | Data / BI | Programming | DevOps / Cloud |
@@ -38,11 +38,6 @@
 ### 📚 Certifications
 - PL-300 · Microsoft Power BI Data Analyst  
 - SAP Advanced Data Modeling (Datasphere & S/4HANA)
-
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Cherukuri-Thanu&show_icons=true" alt="GitHub Stats">
-</p>
 
 ---
 
