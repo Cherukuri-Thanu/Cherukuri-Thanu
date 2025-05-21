@@ -40,7 +40,7 @@
 - SAP Certified Associate - Data Engineer
 - SAP Certified Associate - Back End Developer - ABAP Cloud
 
-<align="center">💬 Let’s connect & build data-driven SAP solutions together!
+<p align="center">💬 Let’s connect &amp; build data-driven SAP solutions together!</p>
 
 <div align="center">
   
