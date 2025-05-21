@@ -39,7 +39,9 @@
 - PL-300 · Microsoft Power BI Data Analyst  
 - SAP Certified Associate - Data Engineer
 - SAP Certified Associate - Back End Developer - ABAP Cloud
+  
 **Let’s connect & build data-driven SAP solutions together!**
+
 <div align="center">
   
 ![Github_Header](https://github.com/Thanu-Cherukuri/Thanu-Cherukuri/assets/112831076/cde20d72-2ae7-4421-b7eb-75a26b176b2a)
