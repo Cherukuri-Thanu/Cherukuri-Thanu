@@ -17,7 +17,7 @@
 
 ### 🚀 About Me
 - 🏢  **SAP BI Developer @ All4Labels Group GmbH, Hamburg** (2024-present) – streaming SAP → Datasphere → Power BI for real-time insights
-- Ex-researcher at **Infineon Technologies AG, Munich** – delivered an adaptive FMCW-radar filter boosting detection accuracy by 80 %
+- Completed Master Thesis at **Infineon Technologies AG, Munich** – delivered an adaptive FMCW-radar filter boosting detection accuracy by 80 %
 - M.Sc. Information & Communication Systems, **TU Hamburg**  
 - 📊  Built **4 production-grade Power BI dashboards** (Sales, Finance, Safety Health & Environment (SHE), Supply Chain Operations) used in 15+ business units across All4Labels
 - ⚙️  Passionate about turning messy SAP/non-SAP data into actionable dashboards/reports/stories and automating anything that smells like Excel
