@@ -21,12 +21,12 @@
 - M.Sc. Information & Communication Systems, **TU Hamburg**  
 - 📊  Built **4 production-grade Power BI dashboards** (Sales, Finance, Safety Health & Environment (SHE), Supply Chain Operations) used in 15+ business units across All4Labels
 - ⚙️  Passionate about turning messy SAP/non-SAP data into actionable dashboards/reports/stories and automating anything that smells like Excel
--  Living in Hamburg • English (Fluent) • Deutsch (B1)  
+-  Living in Hamburg • English (Fluent) • Deutsch (B2)  
 
 ### 🛠️ Tech Toolbox
 | SAP | Data / BI | Programming | DevOps / Cloud |
 |-----|-----------|-------------|----------------|
-| S/4HANA (SD, IDoc, CDS), Datasphere | Power BI, SAC, SQL Server | Python, ABAP OO, DAX, SQL | Docker, Git, CI/CD, Azure DL, JIRA |
+| SAP BW/4HANA, SAP Datasphere | Power BI, SAC, SQL Server | Python, ABAP OO, DAX, SQL | Docker, Git, CI/CD, Azure DL, JIRA |
 
 ### 📊 Featured Dashboards
 
