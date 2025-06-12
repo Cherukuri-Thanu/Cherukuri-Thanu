@@ -36,6 +36,8 @@
 | **2025** | **Safety Performance & Compliance** | <img src="safety-performance-overview.png" width="160" alt="Safety Performance dashboard"> | Global SHE | Cut monthly incident-report cycle from 3 days → 30 min |
 | **2025** | **On-Time Delivery Analysis** | <img src="procurement-otd-overview.png" width="160" alt="Procurement & OTD dashboard"> | Supply Chain | Raised on-time-delivery visibility & flagged €2 M inventory risks |
 | **2024** | **Material Procurement Monitor** | <img src="procurement-overview.png" width="160" alt="Naish dashboard"> | Sales & FICO | Live pipeline from S/4HANA to dashboards; 80 % less manual order handling |
+| **2024** | **Market Trend Analysis** | <img src="OFN.png" width="120" alt="Market Trend – Page 1"> <img src="OF2.png" width="120" alt="Market Trend – Page 2"> | Market Intelligence & Operations | Forecasted revenue trends, quantified marketing impact, and uncovered top‐performing plans and state‐level shipping efficiencies |
+
 
 
 ### 📚 Learning Journey
