@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋 I'm Thanuja Cherukuri</h1>
-<h3 align="center">SAP & Power BI Developer • Turning ERP data into insight</h3>
+<h3 align="center">SAP & BI Developer • Turning ERP data into insight</h3>
 
 <p align="center">
   <a href="mailto:thanujacherukuri111@gmail.com">
@@ -16,34 +16,32 @@
 ---
 
 ### 🚀 About Me
-- 🏢  **SAP BI Developer @ All4Labels Group GmbH, Hamburg** (2024-present) – streaming SAP → Datasphere → Power BI for real-time insights
-- Completed Master Thesis at **Infineon Technologies AG, Munich** – delivered an adaptive FMCW-radar filter boosting detection accuracy by 80 %
+- 🏢  **SAP BI Developer @ All4Labels Group GmbH, Hamburg** (2024-present) – streaming SAP ERP data → BigQuery & Datasphere modelling → BI solutions for real-time insights
+- Completed Master Thesis at **Infineon Technologies AG, Munich** – delivered a python-based adaptive FMCW-radar filter boosting detection accuracy by 80 %
 - M.Sc. Information & Communication Systems, **TU Hamburg**  
-- 📊  Built **4 production-grade Power BI dashboards** (Sales, Finance, Safety Health & Environment (SHE), Supply Chain Operations) used in 15+ business units across All4Labels
+- 📊  Built **7+ production-grade BI dashboards** (Sales, Finance, Safety Health & Environment (SHE), Supply Chain Operations) used in 15+ business units across All4Labels
 - ⚙️  Passionate about turning messy SAP/non-SAP data into actionable dashboards/reports/stories and automating anything that smells like Excel
--  Living in Hamburg • English (Fluent) • Deutsch (B2)  
+-  Living in Hamburg • English (Fluent) • Deutsch (B1)  
 
 ### 🛠️ Tech Toolbox
 | SAP | Data / BI | Programming | DevOps / Cloud |
 |-----|-----------|-------------|----------------|
-| SAP BW/4HANA, SAP Datasphere | Power BI, SAC, SQL Server | Python, ABAP OO, DAX, SQL | Docker, Git, CI/CD, Azure DL, JIRA |
+| SAP BW/4HANA, SAP Datasphere | Power BI, Looker Studio, SAC, SQL Server | Python, ABAP, DAX, SQL | Docker, Git, CI/CD, Azure DL, Google BigQuery, JIRA, Confluence |
 
 ### 📊 Featured Dashboards
 
-| Year | Dashboard | Screenshot | Business Area | Stack | Impact |
-|------|-----------|------------|---------------|-------|--------|
-| **2025** | **Customer Performance Monitor** | <img src="customer-performance-overview.png" width="160" alt="Customer Performance Monitor"> | Sales & Finance | SAP Datasphere · Power BI · SQL Server · Azure DL | Real-time KPIs (Turnover, EBITDA, DSO ⋯) – eliminated 80 % Excel churn |
-| **2025** | **Safety Performance & Compliance** | <img src="safety-performance-overview.png" width="160" alt="Safety Performance dashboard"> | Global SHE | SAP Datasphere · Power BI · SQL Server · Azure DL | Cut monthly incident-report cycle from 3 days → 30 min |
-| **2025** | **On-Time Delivery Analysis** | <img src="procurement-otd-overview.png" width="160" alt="Procurement & OTD dashboard"> | Supply Chain | SAP Datasphere · Power BI · SQL Server · Azure DL | Raised on-time-delivery visibility & flagged €2 M inventory risks |
-| **2024** | **Material Procurement Monitor** | <img src="procurement-overview.png" width="160" alt="Naish dashboard"> | Sales & FICO | SAP ERP · SAP Datasphere · Power BI | Live pipeline from S/4HANA to dashboards; 80 % less manual order handling |
+| Year | Dashboard | Screenshot | Business Area | Impact |
+|------|-----------|------------|---------------|--------|
+| **2025** | **Customer Performance Monitor** | <img src="customer-performance-overview.png" width="160" alt="Customer Performance Monitor"> | Sales & Finance | Real-time KPIs (Turnover, EBITDA, DSO ⋯) – eliminated 80 % Excel churn |
+| **2025** | **Safety Performance & Compliance** | <img src="safety-performance-overview.png" width="160" alt="Safety Performance dashboard"> | Global SHE | Cut monthly incident-report cycle from 3 days → 30 min |
+| **2025** | **On-Time Delivery Analysis** | <img src="procurement-otd-overview.png" width="160" alt="Procurement & OTD dashboard"> | Supply Chain | Raised on-time-delivery visibility & flagged €2 M inventory risks |
+| **2024** | **Material Procurement Monitor** | <img src="procurement-overview.png" width="160" alt="Naish dashboard"> | Sales & FICO | Live pipeline from S/4HANA to dashboards; 80 % less manual order handling |
 
 
 ### 📚 Learning Journey
-- PL-300 · Microsoft Power BI Data Analyst  
-- SAP Certified Associate - Data Engineer
-- SAP Certified Associate - Back End Developer - ABAP Cloud
+- SAP Certified Associate - Implementation Consultant End-to-End Business Processes for the Intelligent Enterprise
   
-💬 **Let’s connect & build data-driven SAP solutions together!**
+💬 **Let’s connect & build data-driven BI solutions together!**
 
 <div align="center">
   
