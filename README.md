@@ -26,7 +26,7 @@
 ### 🛠️ Tech Toolbox
 | SAP | Data / BI | Programming | DevOps / Cloud |
 |-----|-----------|-------------|----------------|
-| SAP BW/4HANA, SAP Datasphere | Power BI, Looker Studio, SAC, SQL Server | Python, ABAP, DAX, SQL | Docker, Git, CI/CD, Azure DL, Google BigQuery, JIRA, Confluence |
+| SAP BW/4HANA, SAP Datasphere | Power BI, Tableau, Looker Studio, SAC, SQL Server | Python, ABAP, DAX, SQL | Docker, Git, CI/CD, Azure DL, Google BigQuery, JIRA, Confluence |
 
 ### 📊 Featured Dashboards
 
