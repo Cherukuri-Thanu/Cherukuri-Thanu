@@ -1,5 +1,5 @@
 <h1 align="center">Thanuja Cherukuri</h1>
-<h3 align="center">SAP & BI Developer • Turning ERP data into insight</h3>
+<h3 align="center">SAP BI Developer • Turning ERP data into insight</h3>
 
 <p align="center">
   <a href="mailto:thanujacherukuri111@gmail.com">
