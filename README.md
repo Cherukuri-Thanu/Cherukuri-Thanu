@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋 I'm Thanuja Cherukuri</h1>
+<h1 align="center">Thanuja Cherukuri</h1>
 <h3 align="center">SAP & BI Developer • Turning ERP data into insight</h3>
 
 <p align="center">
